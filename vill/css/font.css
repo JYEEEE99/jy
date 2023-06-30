@@ -1,0 +1,33 @@
+@charset "UTF-8";
+@font-face {
+  font-family: Base;
+  src: url(fonts/NanumGothic-Regular.ttf);
+}
+@font-face {
+  font-family: BaseB;
+  src: url(fonts/NanumGothic-Bold.ttf);
+}
+@font-face {
+  font-family: En;
+  src: url(fonts/GothicA1-Light.ttf);
+}
+@font-face {
+  font-family: EnM;
+  src: url(fonts/GothicA1-Medium.ttf);
+}
+@font-face {
+  font-family: EnB;
+  src: url(fonts/GothicA1-Semibold.ttf);
+}
+
+body {font-family: "Base", sans-serif;}
+.en {font-family: "En";}
+.enM {font-family: "EnM";}
+.enB {font-family: "EnB";}
+
+
+
+
+
+
+
